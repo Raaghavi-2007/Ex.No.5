@@ -46,9 +46,7 @@ Final selected prompting technique
 Refined/final prompt
 Engineering validation
 
-## Project Title:
-
-## AI-Based Smart Traffic Management System
+## Project Title: AI-Based Smart Traffic Management System
 
 ## Problem Statement:
 
