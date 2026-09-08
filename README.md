@@ -239,7 +239,7 @@ Provide detailed explanations for each stage.
 * Scalable for smart city applications.
 * Suitable as a final-year engineering project.
   
-**Conclusion:**
+# Conclusion:
 
 This experiment compared different prompting techniques for solving an engineering problem using AI. The results showed that well-structured prompts produce more accurate, detailed, and useful responses than simple prompts. Among all techniques, Chain-of-Thought Prompting gave the best results by providing a step-by-step solution. The experiment highlights the importance of prompt engineering in improving AI-generated outputs for real-world engineering applications.
 
